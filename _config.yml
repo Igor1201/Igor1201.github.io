@@ -2,10 +2,9 @@
 title: Igor1201.Github.Io
 timezone: UTC
 collections:
-  speedruns:
-    title: Speedruns
+  posts:
+    title: Posts
     output: true
-    metadata-speedruns: hey
   uploads:
     title: Uploads
     output: true

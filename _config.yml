@@ -8,6 +8,7 @@ collections:
   speedruns:
     title: Speedruns
     output: true
+    metadata-speedruns: hey
   uploads:
     title: Uploads
     output: true

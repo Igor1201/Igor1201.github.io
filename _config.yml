@@ -1,7 +1,10 @@
 ---
 title: Igor1201.Github.Io
-timezone: UTC
+timezone: America/Sao_Paulo
 collections:
+  posts:
+    title: Posts
+    output: true
   uploads:
     title: Uploads
     output: true

@@ -14,6 +14,7 @@ Bla bla bla bla bla bla bla bla bla bla bla.
 
 Ble ble ble ble ble ble.
 
+![death-note.jpg](/uploads/death-note.jpg)
 Bli bli bli.
 
 {{display_name}}
